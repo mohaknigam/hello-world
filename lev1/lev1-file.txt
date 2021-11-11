@@ -1,0 +1,3 @@
+Empty files are great, but they can only get you so far. By leveraging the echo 
+command and > operator, we can create a brand new file 
+and populate the file with some text, all without even opening a text editor:
