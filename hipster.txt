@@ -2,6 +2,9 @@
 who all are you nd what are yoyu doing here ?
 =======
 who all are you nd what are yoyu doing here
+<<<<<<< HEAD
 
 Do not roam here
 >>>>>>> 6fcf595b9c52d24b16cb9533051b1f1f85d3a48e
+=======
+>>>>>>> 3346f685d96c68e74a4a185f6dba37a89d744629
